@@ -255,7 +255,7 @@
     "Name": "Roku Remote",
     "Icon": "images/Icon/Roku",
     "URL": "https://github.com/FUNKYJASPER2/StreamDeck-Roku-Remote-Plugin",
-    "Version": "1.0",
+    "Version": "1.1.0",
     "SDKVersion": 2,
     "Software": {
         "MinimumVersion":  "4.1"
