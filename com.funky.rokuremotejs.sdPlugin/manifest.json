@@ -76,6 +76,20 @@
             "PropertyInspectorPath": "pi/main_pi.html"
         },
         {
+            "Icon": "images/Actions/Options/options",
+            "Name": "Options",
+            "States": [
+                {
+                    "Image": "images/Actions/Options/Icons/options",
+                    "TitleAlignment": "middle",
+                    "FontSize": "16"
+                }
+            ],
+            "SupportedInMultiActions": true,
+            "Tooltip": "Option",
+            "UUID": "com.funky.rokuremotejs.Option"
+        },
+        {
             "Icon": "images/Actions/Back/back",
             "Name": "Back",
             "States": [

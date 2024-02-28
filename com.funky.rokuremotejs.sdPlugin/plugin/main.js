@@ -71,6 +71,9 @@ function connectElgatoStreamDeckSocket(inPort, inPluginUUID, inRegisterEvent, in
                     else if (jsonObj['action'] == "com.funky.rokuremotejs.back"){
                         action = "back";
                     }
+                    else if (jsonObj['action'] == "com.funky.rokuremotejs.option"){
+                        action = "info";
+                    }
                     else if (jsonObj['action'] == "com.funky.rokuremotejs.home"){
                         action = "home";
                     }
